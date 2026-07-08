@@ -91,11 +91,6 @@ const eka = {
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekasaputra0324&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ekasaputra0324)
-
-</div>
 
 ---
 

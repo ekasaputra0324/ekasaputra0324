@@ -71,14 +71,21 @@ const eka = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekasaputra0324&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekasaputra0324&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekasaputra0324&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekasaputra0324&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ekasaputra0324&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ekasaputra0324&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekasaputra0324&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ekasaputra0324)
 
 </div>
 

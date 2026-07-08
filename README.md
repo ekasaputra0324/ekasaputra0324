@@ -71,9 +71,17 @@ const eka = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekasaputra0324&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekasaputra0324&theme=radical" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekasaputra0324&theme=radical" height="160em"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekasaputra0324&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekasaputra0324&theme=radical" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekasaputra0324&theme=radical" height="160em"/>
 
 </div>
 
